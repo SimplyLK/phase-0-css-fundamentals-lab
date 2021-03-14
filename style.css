@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {text-align: center;
+}
+img { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav { 
+  text-align: center;
+  padding: 0px 10px 0px 10px;
+  background-color:darksalmon}
+
+figcaption {text-align: center;}
+
+#details>div {
+  float: left;
+  background-color: skyblue;
+  text-align: center;
+  width: 25%
+}
